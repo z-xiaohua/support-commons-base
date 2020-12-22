@@ -1,2 +1,2 @@
-# support-commons-parent
-公共组件集合
+# support-commons-base
+公共基类包
