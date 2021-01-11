@@ -1,4 +1,4 @@
-package com.zhongxiaohua.support.commons.base.page;
+package io.github.xiaohua.support.commons.base.page;
 
 import java.io.Serializable;
 import java.util.Collections;

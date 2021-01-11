@@ -1,4 +1,4 @@
-package com.zhongxiaohua.support.commons.base.util;
+package io.github.xiaohua.support.commons.base.util;
 
 import java.util.ArrayList;
 import java.util.Collection;

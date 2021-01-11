@@ -1,8 +1,8 @@
-package com.zhongxiaohua.support.commons.base.util;
+package io.github.xiaohua.support.commons.base.util;
 
 
-import com.zhongxiaohua.support.commons.base.exception.BaseException;
-import com.zhongxiaohua.support.commons.base.exception.ServerCode;
+import io.github.xiaohua.support.commons.base.exception.BaseException;
+import io.github.xiaohua.support.commons.base.exception.ServerCode;
 import java.util.Collection;
 import java.util.Date;
 import org.apache.commons.lang3.StringUtils;

@@ -1,4 +1,4 @@
-package com.zhongxiaohua.support.commons.base.exception;
+package io.github.xiaohua.support.commons.base.exception;
 
 import lombok.Getter;
 import lombok.Setter;

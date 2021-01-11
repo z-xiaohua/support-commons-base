@@ -1,8 +1,8 @@
-package com.zhongxiaohua.support.commons.base.response;
+package io.github.xiaohua.support.commons.base.response;
 
 import com.alibaba.fastjson.annotation.JSONField;
 import com.fasterxml.jackson.annotation.JsonIgnore;
-import com.zhongxiaohua.support.commons.base.exception.ServerCode;
+import io.github.xiaohua.support.commons.base.exception.ServerCode;
 import java.io.Serializable;
 import java.util.Objects;
 import lombok.AllArgsConstructor;
